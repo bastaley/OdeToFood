@@ -4720,6 +4720,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "OdeToFood.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OdeToFood.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.Core.dll": {}
+        }
+      },
+      "OdeToFood.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "OdeToFood.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OdeToFood.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.Data.dll": {}
+        }
       }
     }
   },
@@ -12924,6 +12947,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "OdeToFood.Core/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.Core/OdeToFood.Core.csproj",
+      "msbuildProject": "../OdeToFood.Core/OdeToFood.Core.csproj"
+    },
+    "OdeToFood.Data/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.Data/OdeToFood.Data.csproj",
+      "msbuildProject": "../OdeToFood.Data/OdeToFood.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12931,7 +12964,8 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
+      "OdeToFood.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12963,7 +12997,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

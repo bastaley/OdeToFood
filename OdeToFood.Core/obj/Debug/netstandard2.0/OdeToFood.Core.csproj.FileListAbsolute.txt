@@ -1,0 +1,9 @@
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb

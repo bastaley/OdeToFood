@@ -1,0 +1,12 @@
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb

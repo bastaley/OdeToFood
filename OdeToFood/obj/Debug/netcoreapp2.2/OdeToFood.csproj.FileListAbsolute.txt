@@ -29,3 +29,7 @@ D:\Projects\pluralsight\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.dl
 D:\Projects\pluralsight\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.pdb
 D:\Projects\pluralsight\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.csproj.CopyComplete
 D:\Projects\pluralsight\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\List.g.cshtml.cs
+D:\Projects\pluralsight\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.Core.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.Data.dll
+D:\Projects\pluralsight\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.Data.pdb
+D:\Projects\pluralsight\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.2\OdeToFood.Core.pdb
