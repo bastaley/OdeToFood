@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFOod\\OdeToFood.csproj": {}
   },
   "projects": {
     "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
@@ -112,14 +112,14 @@
         }
       }
     },
-    "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFOod\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFOod\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFOod\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\stale\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "D:\\Projects\\pluralsight\\OdeToFood\\OdeToFOod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
